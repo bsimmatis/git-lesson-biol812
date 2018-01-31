@@ -6,6 +6,7 @@ Let's make another header
 ### Why?!?!
 * How to install R software
 * What's a list?
+* Another list item
 # How to install R software
 
 Disclaimer: this is a work in progress for a class.
